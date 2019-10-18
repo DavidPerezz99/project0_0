@@ -1,0 +1,11 @@
+
+table{margin: 30px;border: 2px solid black;border-collapse: collapse;width: 50%;} 
+li{padding:2px;
+   font-family: Arial,sans-serif;
+   font-size: 18px;
+   font-weight: bold;}
+td,th{padding:5px;border: 1px solid black;text-align: center;}
+th{background-color: lightgray;
+
+
+
